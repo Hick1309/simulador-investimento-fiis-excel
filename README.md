@@ -14,7 +14,7 @@ Criar uma ferramenta em Excel que ajude usuários a simular investimentos em Fun
 ## 📁 Arquivos
 
 - `BootCamp-FerramentaControleDeInvestimento.xlsx`: planilha desenvolvida com todos os cálculos automatizados.
-- `/images`: capturas de tela explicando a estrutura da planilha (opcional, mas recomendado).
+- `/images`: capturas de tela explicando a estrutura da planilha.
 - `README.md`: este arquivo de documentação.
 
 ## 🧠 Conceitos Aplicados
@@ -33,7 +33,7 @@ Criar uma ferramenta em Excel que ajude usuários a simular investimentos em Fun
 
 ## 🖼️ Capturas de Tela
 
-As imagens estão disponíveis na pasta `/images` (incluir se quiser adicionar prints da planilha).
+As imagens estão disponíveis na pasta `/images`.
 
 ## 🚀 Como Usar
 
