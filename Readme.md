@@ -51,5 +51,4 @@ Este projeto foi desenvolvido individualmente como parte de um exercício práti
 ## 📬 Contato
 
 Henrique da Silva Feitosa  
-[LinkedIn](https://www.linkedin.com/in/henriquedasilvafeitosa/)  
- 
+[LinkedIn](https://www.linkedin.com/in/henriquedasilvafeitosa/) 
